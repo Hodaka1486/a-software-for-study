@@ -28,7 +28,7 @@ int main()
 	string str_1;
 	cout << "\n"; 
 	cin >> test;
-	while (test!=3)
+	while (test!=4)
 	{
 		switch (test)
 		{
