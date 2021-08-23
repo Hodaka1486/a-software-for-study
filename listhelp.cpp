@@ -24,6 +24,7 @@ int main()
 		cout << "做好哪个就输入第几个做好了如：输入3代表第三个做好了:";
 		cin >> m;
 		clear(m);
+		system("cls");
 	}
 	cout << "恭喜完成本次所有计划\n";
 	system("pause");
